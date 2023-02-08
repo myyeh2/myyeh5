@@ -1,3 +1,4 @@
+
 # C:\GitHub\test2\pyTest2.py
 # https://github.com/htylab/SS_EXP 
 
@@ -29,4 +30,4 @@ plt.plot(np.angle(yf))
 plt.xlabel(r'$\hat\omega$ (radian)') 
 plt.title('The phase spectrum') 
 
-plt.show()
+plt.show()  
